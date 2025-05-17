@@ -1,0 +1,15 @@
+[package]
+name = "Emergency_helth"
+version = "1.0.0"
+authors = []
+
+[addresses]
+EmergencyInfo = "0x1b28414415ea39d1410787c40ead02be90fbf2d6c6e88cc0bda181ebdb37a626"
+[dev-addresses]
+
+[dependencies.AptosFramework]
+git = "https://github.com/aptos-labs/aptos-framework.git"
+rev = "mainnet"
+subdir = "aptos-framework"
+
+[dev-dependencies]
