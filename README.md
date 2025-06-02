@@ -1,5 +1,8 @@
 # Emergency Health Info Smart Contract
 
+### Contract Address 
+0x2c5904c9444eaecd1969de1aa6d595b5a6aad50850eb71aa95f97c2e405c73a4
+
 ## Overview
 
 The Emergency Health Info Smart Contract is a decentralized application built on the Aptos blockchain that allows users to store critical medical information in their blockchain wallet. This information can be accessed during emergency situations by authorized parties, potentially saving lives when quick access to medical history is crucial.
